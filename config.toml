@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://github.com/aaltomcc/cs-ej4101-fall-2019-065-advanced"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "First assignment"
 theme = "simple-a"
