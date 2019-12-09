@@ -8,4 +8,4 @@ draft: true
 
 ### Well one thing more! A link to the index page. So here you go:
 
-### [back](/)
+### [back](/cs-ej4101-fall-2019-065-advanced/)

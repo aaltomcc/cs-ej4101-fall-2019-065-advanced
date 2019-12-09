@@ -1,4 +1,4 @@
-baseURL = "https://github.com/aaltomcc/cs-ej4101-fall-2019-065-advanced"
+baseURL = "https://aaltomcc.github.io/cs-ej4101-fall-2019-065-advanced/"
 languageCode = "en-us"
 title = "First assignment"
 theme = "simple-a"
