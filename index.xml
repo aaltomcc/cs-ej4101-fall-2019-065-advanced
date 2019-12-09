@@ -1,0 +1,19 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>About on First assignment </title>
+    <link>https://github.com/aaltomcc/cs-ej4101-fall-2019-065-advanced/</link>
+    <language>en-us</language>
+    <author>Alexander Ivanov</author>
+    <updated>2019-12-06 18:32:24 -0500 -0500</updated>
+    
+    <item>
+      <title>Posts</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      <author>Alexander Ivanov</author>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
